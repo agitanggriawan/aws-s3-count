@@ -1,5 +1,8 @@
 {
   "name": "aws-s3-count",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
   "version": "0.0.1",
   "description": "Simple package to count size folder AWS S3",
   "main": "app.js",
